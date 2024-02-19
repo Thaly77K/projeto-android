@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@font-face {
+    font-family: Android;
+    src: url(fontes/._idroid.otf) format(opentype);
+}
+
+body {
+    background-color: #c5ebd6;
+}
